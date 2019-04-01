@@ -1,9 +1,9 @@
 # project o chomikach 
 
-##lira
+## lira
 
 
 
-###########licence
+########### licence
 
 [link](https://tibia.com)
